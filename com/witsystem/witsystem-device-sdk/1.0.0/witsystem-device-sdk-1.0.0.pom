@@ -79,9 +79,10 @@
 
     <distributionManagement>
         <repository>
-            <id>org.witsystem</id>
+            <id>com.witsystem</id>
             <name>Temporary Staging Repository</name>
-            <url>file:${basedir}/repo</url>
+<!--            <url>file:${basedir}/repo</url>-->
+            <url>file:${project.build.directory}/mvn-repo</url>
         </repository>
 
     </distributionManagement>
