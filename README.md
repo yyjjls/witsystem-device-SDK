@@ -1,1 +1,0 @@
-# witsystem-device-SDK
