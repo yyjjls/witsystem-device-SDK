@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>org.witsystem</groupId>
-  <artifactId>witsystem-device-SDK</artifactId>
+  <groupId>com.witsystem</groupId>
+  <artifactId>witsystem-device-sdk</artifactId>
   <versioning>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20220121010052</lastUpdated>
+    <lastUpdated>20220214225531</lastUpdated>
   </versioning>
 </metadata>
